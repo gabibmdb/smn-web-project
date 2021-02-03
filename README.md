@@ -31,7 +31,7 @@ No diretório do back [server]e front [web] execute:
 
 No diretório do back [server] execute o script:
 
-> $ npx knex:migrate
+> $ npm run knex:migrate
 
 
 
